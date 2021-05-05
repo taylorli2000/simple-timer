@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/simple-timer/static/css/main.f3f4813c.chunk.css",
-    "main.js": "/simple-timer/static/js/main.8d32f323.chunk.js",
-    "main.js.map": "/simple-timer/static/js/main.8d32f323.chunk.js.map",
+    "main.js": "/simple-timer/static/js/main.06fec6de.chunk.js",
+    "main.js.map": "/simple-timer/static/js/main.06fec6de.chunk.js.map",
     "runtime-main.js": "/simple-timer/static/js/runtime-main.a224fa24.js",
     "runtime-main.js.map": "/simple-timer/static/js/runtime-main.a224fa24.js.map",
-    "static/js/2.7aed4f11.chunk.js": "/simple-timer/static/js/2.7aed4f11.chunk.js",
-    "static/js/2.7aed4f11.chunk.js.map": "/simple-timer/static/js/2.7aed4f11.chunk.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/simple-timer/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ae9ef5eb.chunk.js": "/simple-timer/static/js/2.ae9ef5eb.chunk.js",
+    "static/js/2.ae9ef5eb.chunk.js.map": "/simple-timer/static/js/2.ae9ef5eb.chunk.js.map",
     "index.html": "/simple-timer/index.html",
-    "static/css/main.f3f4813c.chunk.css.map": "/simple-timer/static/css/main.f3f4813c.chunk.css.map",
-    "static/js/2.7aed4f11.chunk.js.LICENSE.txt": "/simple-timer/static/js/2.7aed4f11.chunk.js.LICENSE.txt"
+    "static/css/2.4c97ca4f.chunk.css.map": "/simple-timer/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.ae9ef5eb.chunk.js.LICENSE.txt": "/simple-timer/static/js/2.ae9ef5eb.chunk.js.LICENSE.txt",
+    "static/media/alarm.02a543cb.wav": "/simple-timer/static/media/alarm.02a543cb.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.a224fa24.js",
-    "static/js/2.7aed4f11.chunk.js",
-    "static/css/main.f3f4813c.chunk.css",
-    "static/js/main.8d32f323.chunk.js"
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ae9ef5eb.chunk.js",
+    "static/js/main.06fec6de.chunk.js"
   ]
 }
